@@ -1,0 +1,1 @@
+export { PersonFace } from './PersonFace';

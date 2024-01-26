@@ -1,0 +1,1 @@
+export { LabelMenu } from './LabelMenu';
